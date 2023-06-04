@@ -1,0 +1,8 @@
+{
+  "username": "yourmail@hotmail.com",
+  "password": "password",
+  "imap_server": "imap-mail.outlook.com",
+  "smtp_server" : "smtp-mail.outlook.com",
+  "inbox_folder": "Factures",
+  "printer_name": "Brother_MFC_9340CDW"
+}
